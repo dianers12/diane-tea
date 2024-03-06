@@ -1,0 +1,21 @@
+{
+  "name": "diane-tea",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://twitter.com/HeWhoRemainzZ",
+  "repository": {
+    "url": "https://github.com/dianers12/diane-tea.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "diane"
+  ],
+  "author": "diane",
+  "license": "ISC",
+  "dependencies": {
+    "text-count": "^1.1.0"
+  }
+}
